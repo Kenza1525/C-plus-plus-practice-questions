@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Desktop/Carnegie/Pre-course/C++/Practice/w3school",
-      "program": "d:/Desktop/Carnegie/Pre-course/C++/Practice/w3school/build/Debug/outDebug",
+      "cwd": "d:/Desktop/Carnegie/Pre-course/C++/Practice/C-plus-plus-practice-questions/w3school",
+      "program": "d:/Desktop/Carnegie/Pre-course/C++/Practice/C-plus-plus-practice-questions/w3school/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
